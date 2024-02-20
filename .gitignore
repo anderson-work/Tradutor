@@ -1,0 +1,14 @@
+# Ignore intermediary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+*.log
+*.zip
+*.cache
+*.DS_Store
+# Ignore Python intermediary files
+*.pyc
+__pycache__/
+data*/
